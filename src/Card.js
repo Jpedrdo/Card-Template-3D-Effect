@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import img from "./Assets/miles-morales.png";
+import img from "./Assets/Link-BotW.png";
 import { useTheme } from "@material-ui/core/styles";
 import {
   Box,
@@ -168,7 +168,7 @@ const Card = () => {
         <Divider />
         <Box className={classes.avatarBox}>
           {!images.length ? (
-            <Avatar alt="miles-morales" src={img} className={classes.large} />
+            <Avatar alt="Link-BotW" src={img} className={classes.large} />
           ) : (
             <Avatar
               alt={`${images[0].key}-preview`}
@@ -282,7 +282,7 @@ const Card = () => {
           <Box ref={sneaker} className={classes.sneaker}>
             <Box className={classes.circle} />
             {!images.length ? (
-              <img className={classes.img} src={img} alt="miles-morales" />
+              <img className={classes.img} src={img} alt="Link-BotW" />
             ) : (
               images
             )}

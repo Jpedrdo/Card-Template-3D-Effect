@@ -2,8 +2,8 @@ import { defineState } from "redux-localstore";
 
 const defaultState = {
   definitionsState: {
-    title: "Spider Man Miles Morales",
-    info: "Amazing Spider Man Game by Sony",
+    title: "The Legend of Zelda",
+    info: "The best game in the world.",
     buttonText: "Get Yours",
     effect3D: true,
     file: [],
