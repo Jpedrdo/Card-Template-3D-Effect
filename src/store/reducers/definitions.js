@@ -3,7 +3,7 @@ import { defineState } from "redux-localstore";
 const defaultState = {
   definitionsState: {
     title: "The Legend of Zelda",
-    info: "The best game in the world.",
+    info: "The Legend of Zelda is an action-adventure video game developed by Nintendo.",
     buttonText: "Get Yours",
     effect3D: true,
     file: [],

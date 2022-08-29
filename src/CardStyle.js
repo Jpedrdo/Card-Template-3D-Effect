@@ -41,8 +41,9 @@ const Styles = makeStyles((theme) => ({
     transition: "all 0.75s ease-out",
   },
   infoH1: {
-    fontSize: "3rem",
+    fontSize: "2.5rem",
     transition: "all 0.75s ease-out",
+    textAlign: 'center'
   },
   infoH3: {
     fontSize: "1.3rem",

@@ -1,5 +1,16 @@
-# Card Template 3D Effect
-A simple card template with React JS and Material-UI, which has a really cool 3D effect. You can customize the images, texts and etc.
+<h1 align="center">Card Template 3D Effect</h1>
+
+<img src="src/imgs/fullPage.png">
+
+<h2 align="center">A simple card template with React JS and Material-UI, which has a really cool 3D effect. You can customize the images, texts and etc.
+</h2>
+
+## ⚙️ Technologies
+
+- [ ] Javascript
+- [ ] React Js
+- [ ] Material Ui
+- [ ] Redux
 
 # Getting Started with Create React App
 
