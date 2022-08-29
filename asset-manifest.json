@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Card-Template-3D-Effect/static/js/main.d3a43819.chunk.js",
+    "main.js.map": "/Card-Template-3D-Effect/static/js/main.d3a43819.chunk.js.map",
+    "runtime-main.js": "/Card-Template-3D-Effect/static/js/runtime-main.cb2b6ccd.js",
+    "runtime-main.js.map": "/Card-Template-3D-Effect/static/js/runtime-main.cb2b6ccd.js.map",
+    "static/js/2.7a7446a8.chunk.js": "/Card-Template-3D-Effect/static/js/2.7a7446a8.chunk.js",
+    "static/js/2.7a7446a8.chunk.js.map": "/Card-Template-3D-Effect/static/js/2.7a7446a8.chunk.js.map",
+    "index.html": "/Card-Template-3D-Effect/index.html",
+    "static/js/2.7a7446a8.chunk.js.LICENSE.txt": "/Card-Template-3D-Effect/static/js/2.7a7446a8.chunk.js.LICENSE.txt",
+    "static/media/Link-BotW.40434ac4.png": "/Card-Template-3D-Effect/static/media/Link-BotW.40434ac4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb2b6ccd.js",
+    "static/js/2.7a7446a8.chunk.js",
+    "static/js/main.d3a43819.chunk.js"
+  ]
+}
